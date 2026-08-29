@@ -139,152 +139,184 @@ DragonBotAI follows a modern full-stack architecture separating the frontend pre
                 │   Database    │ │    OpenAI     │
                 └───────────────┘ └───────────────┘
 
-🛠️ Technology Stack
-Frontend
-React 19
-TypeScript
-Vite
-Tailwind CSS
-React Router
-TanStack React Query
-Zustand
-React Hook Form
-Zod
-Axios
-Lucide React
-React Markdown
-React Syntax Highlighter
-Sonner
-Backend
-Python
-FastAPI
-Pydantic
-SQLAlchemy
-PostgreSQL
-Alembic
-Uvicorn
-python-dotenv
-python-multipart
-AI & Integration
-OpenAI API
-REST API architecture
-AI-powered conversational workflows
-Structured business workflows
-Knowledge-driven application architecture
-Security & Authentication
-JWT-based authentication
-bcrypt
-python-jose
-Pydantic validation
-Environment-based configuration
-🧩 Core Technical Components
-Component	Technology
-Frontend Framework	React
-Programming Language	TypeScript
-Frontend Build Tool	Vite
-UI Styling	Tailwind CSS
-State Management	Zustand
-Server State	TanStack React Query
-Routing	React Router
-Forms	React Hook Form + Zod
-HTTP Client	Axios
-Backend Framework	FastAPI
-Backend Language	Python
-ORM	SQLAlchemy
-Database	PostgreSQL
-Database Migrations	Alembic
-Data Validation	Pydantic
-AI Integration	OpenAI API
-Authentication	JWT
-Password Security	bcrypt
-Backend Server	Uvicorn
-🎯 Business Use Cases
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **React Router**
+- **TanStack React Query**
+- **Zustand**
+- **React Hook Form**
+- **Zod**
+- **Axios**
+- **Lucide React**
+- **React Markdown**
+- **React Syntax Highlighter**
+- **Sonner**
+
+### Backend
+
+- **Python**
+- **FastAPI**
+- **Pydantic**
+- **SQLAlchemy**
+- **PostgreSQL**
+- **Alembic**
+- **Uvicorn**
+- **python-dotenv**
+- **python-multipart**
+
+### AI & Integration
+
+- **OpenAI API**
+- REST API architecture
+- AI-powered conversational workflows
+- Structured business workflows
+- Knowledge-driven application architecture
+
+### Security & Authentication
+
+- JWT-based authentication
+- **bcrypt**
+- **python-jose**
+- Pydantic validation
+- Environment-based configuration
+
+---
+
+## 🧩 Core Technical Components
+
+| Component | Technology |
+|---|---|
+| Frontend Framework | React |
+| Programming Language | TypeScript |
+| Frontend Build Tool | Vite |
+| UI Styling | Tailwind CSS |
+| State Management | Zustand |
+| Server State | TanStack React Query |
+| Routing | React Router |
+| Forms | React Hook Form + Zod |
+| HTTP Client | Axios |
+| Backend Framework | FastAPI |
+| Backend Language | Python |
+| ORM | SQLAlchemy |
+| Database | PostgreSQL |
+| Database Migrations | Alembic |
+| Data Validation | Pydantic |
+| AI Integration | OpenAI API |
+| Authentication | JWT |
+| Password Security | bcrypt |
+| Backend Server | Uvicorn |
+
+---
+
+## 🎯 Business Use Cases
 
 DragonBotAI demonstrates how AI and automation can be applied to practical business environments.
 
-Healthcare
+### Healthcare
 
 AI-assisted healthcare workflows, doctor and patient management, consultations, appointments, and prescription workflows.
 
-Business Operations
+### Business Operations
 
 Centralized conversations, organizational knowledge, workflow management, and AI-assisted operational processes.
 
-Knowledge Management
+### Knowledge Management
 
 Upload and manage organizational documents and make business information accessible through AI-powered workflows.
 
-Customer Support
+### Customer Support
 
 Conversational AI can be adapted for customer support, internal assistance, and knowledge-based responses.
 
-Industry-Specific AI
+### Industry-Specific AI
 
 The workspace architecture can be extended to different business domains with customized workflows and data models.
 
-💡 What This Project Demonstrates
+---
+
+## 💡 What This Project Demonstrates
 
 DragonBotAI was built to demonstrate practical full-stack AI engineering capabilities, including:
 
-AI application development
-Business process automation
-SaaS architecture
-REST API development
-Python backend development
-FastAPI application development
-React and TypeScript development
-Database-driven applications
-AI API integration
-Knowledge management systems
-Authentication and authorization
-State management
-Form validation
-Domain-specific workflows
-Scalable frontend architecture
-Structured business data management
-📸 Product Showcase
-AI Conversation Interface
+- AI application development
+- Business process automation
+- SaaS architecture
+- REST API development
+- Python backend development
+- FastAPI application development
+- React and TypeScript development
+- Database-driven applications
+- AI API integration
+- Knowledge management systems
+- Authentication and authorization
+- State management
+- Form validation
+- Domain-specific workflows
+- Scalable frontend architecture
+- Structured business data management
+
+---
+
+## 📸 Product Showcase
+
+### AI Conversation Interface
 
 The conversational interface demonstrates DragonBotAI's AI-powered interaction layer and conversation management capabilities.
 
-Dashboard
+### Dashboard
 
 The dashboard provides a centralized overview of conversations, platform activity, and business workflows.
 
-Knowledge Base
+### Knowledge Base
 
 The Knowledge Base provides centralized document management for organizational information and AI-assisted workflows.
 
-Healthcare Workspace
+### Healthcare Workspace
 
 The healthcare workspace demonstrates how DragonBotAI can be configured for domain-specific business operations such as doctors, patients, appointments, consultations, and prescriptions.
 
-🔒 Repository & Source Code
+---
 
-This repository is maintained as a public product showcase and technical case study for DragonBotAI.
+## 🔒 Repository & Source Code
+
+This repository is maintained as a **public product showcase and technical case study** for DragonBotAI.
 
 The production source code, environment configuration, API credentials, database credentials, and private implementation details are intentionally not included.
 
 This approach allows the project to be demonstrated publicly while keeping proprietary implementation details private.
 
-No API keys, passwords, credentials, or private environment variables are included in this repository.
+**No API keys, passwords, credentials, or private environment variables are included in this repository.**
 
-📈 Project Focus
+---
+
+## 📈 Project Focus
 
 DragonBotAI focuses on the intersection of:
 
-Artificial Intelligence + Business Process Automation + SaaS + Full-Stack Development
+**Artificial Intelligence + Business Process Automation + SaaS + Full-Stack Development**
 
 The project demonstrates how AI capabilities can be connected to real application workflows, structured data, organizational knowledge, and industry-specific operations.
 
-👨‍💻 Developer
+---
 
-Fuzail Ashraf
+## 👨‍💻 Developer
+
+**Fuzail Ashraf**
 
 Founder & AI Automation Developer
 
 DragonBotAI is a self-initiated project developed to explore and demonstrate practical AI-powered business automation and full-stack application development.
 
-🔎 Keywords
+---
 
-Artificial Intelligence · AI Automation · Business Process Automation · AI SaaS · Python · FastAPI · React · TypeScript · OpenAI · PostgreSQL · Knowledge Management · Conversational AI · Workflow Automation · Healthcare Automation · Business Automation · Full Stack Development
+## 🔎 Keywords
+
+`Artificial Intelligence` · `AI Automation` · `Business Process Automation` · `AI SaaS` · `Python` · `FastAPI` · `React` · `TypeScript` · `OpenAI` · `PostgreSQL` · `Knowledge Management` · `Conversational AI` · `Workflow Automation` · `Healthcare Automation` · `Business Automation` · `Full Stack Development`
