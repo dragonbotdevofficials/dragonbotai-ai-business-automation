@@ -262,21 +262,37 @@ DragonBotAI was built to demonstrate practical full-stack AI engineering capabil
 
 ## 📸 Product Showcase
 
-### AI Conversation Interface
+DragonBotAI is designed as a practical AI business automation platform, combining conversational AI with structured business workflows and knowledge management.
 
-The conversational interface demonstrates DragonBotAI's AI-powered interaction layer and conversation management capabilities.
+### 📊 Dashboard
 
-### Dashboard
+The central dashboard provides an overview of conversations, platform activity, and access to business workflows.
 
-The dashboard provides a centralized overview of conversations, platform activity, and business workflows.
+![DragonBotAI Dashboard](Screenshot%20%28238%29.png)
 
-### Knowledge Base
+### 🤖 AI Conversation Interface
 
-The Knowledge Base provides centralized document management for organizational information and AI-assisted workflows.
+The AI conversation interface enables natural-language interactions with persistent conversations and structured AI-powered responses.
 
-### Healthcare Workspace
+![DragonBotAI AI Conversation Interface](Screenshot%20%28239%29.png)
 
-The healthcare workspace demonstrates how DragonBotAI can be configured for domain-specific business operations such as doctors, patients, appointments, consultations, and prescriptions.
+### 🧠 Knowledge Base
+
+The Knowledge Base enables organizations to manage business documents and build a centralized source of information for AI-assisted workflows.
+
+![DragonBotAI Knowledge Base](Screenshot%20%28240%29.png)
+
+### 📅 Appointment Management
+
+The appointment workflow demonstrates how DragonBotAI can support structured scheduling and domain-specific operational processes.
+
+![DragonBotAI Appointment Management](Screenshot%20%28241%29.png)
+
+### 🏥 Consultation Workflow
+
+The consultation workflow demonstrates structured healthcare operations including consultation details, clinical information, treatment planning, and follow-up management.
+
+![DragonBotAI Consultation Workflow](Screenshot%20%28242%29.png)
 
 ---
 
