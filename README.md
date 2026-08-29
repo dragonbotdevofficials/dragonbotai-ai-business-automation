@@ -28,11 +28,7 @@ The platform is designed around a simple idea:
 ### 🧠 Knowledge Base
 
 - Upload business documents directly into the platform
-- Supports:
-  - PDF
-  - DOCX
-  - TXT
-  - CSV
+- Supports PDF, DOCX, TXT, and CSV
 - Centralized document management
 - Searchable organizational knowledge
 - File metadata and management
@@ -116,29 +112,27 @@ The dashboard provides a centralized overview of the application with:
 
 DragonBotAI follows a modern full-stack architecture separating the frontend presentation layer from backend APIs and persistent data.
 
-```text
                     ┌─────────────────────────┐
                     │       DragonBotAI       │
-                    │   AI Business Platform   │
+                    │   AI Business Platform  │
                     └────────────┬────────────┘
                                  │
                     ┌────────────▼────────────┐
-                    │      React Frontend      │
+                    │      React Frontend     │
                     │ TypeScript + Tailwind   │
                     └────────────┬────────────┘
                                  │
                          REST API Requests
                                  │
                     ┌────────────▼────────────┐
-                    │     FastAPI Backend      │
+                    │     FastAPI Backend     │
                     │ Python + Pydantic       │
-                    └───────┬─────────┬───────┘
+                    └───────┬─────────┬────────┘
                             │         │
                 ┌───────────▼───┐ ┌──▼────────────┐
                 │  PostgreSQL   │ │   AI APIs     │
                 │   Database    │ │    OpenAI     │
-                └───────────────┘ └───────────────┘ ` ``` `
-
+                └───────────────┘ └───────────────┘
 
 ---
 
