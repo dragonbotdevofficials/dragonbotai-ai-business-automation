@@ -137,7 +137,7 @@ DragonBotAI follows a modern full-stack architecture separating the frontend pre
                 ┌───────────▼───┐ ┌──▼────────────┐
                 │  PostgreSQL   │ │   AI APIs     │
                 │   Database    │ │    OpenAI     │
-                └───────────────┘ └───────────────┘
+                └───────────────┘ └───────────────┘ ` ``` `
 
 
 ---
